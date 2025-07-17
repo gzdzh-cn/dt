@@ -1,4 +1,4 @@
-module dzhgo-cli
+module github.com/gzdzh-cn/dt
 
 go 1.24.5
 

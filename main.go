@@ -1,7 +1,7 @@
 package main
 
 import (
-	"dzhgo-cli/cmd"
+	"github.com/gzdzh-cn/dt/cmd"
 
 	"github.com/gogf/gf/v2/os/gctx"
 )
